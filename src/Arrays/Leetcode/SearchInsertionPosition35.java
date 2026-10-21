@@ -29,6 +29,7 @@ public class SearchInsertionPosition35 {
             }
         }
         System.out.println(left);
+
     }
 }
 
